@@ -1,1 +1,3 @@
-from przeliczan
+from conv import *
+from przelicz import *
+
